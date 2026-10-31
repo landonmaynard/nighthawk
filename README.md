@@ -3,9 +3,9 @@
 
 # N I G H T H A W K
 
-**An Independently Designed High-Power Rocket**
+**A Student Designed High-Power Rocket**
 
-*Mechanical Design · Avionics · Software*
+*Mechanics · Avionics · Software*
 
 ![Nighthawk Concept](images/nighthawk-banner.png)
 
