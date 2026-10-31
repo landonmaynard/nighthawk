@@ -19,7 +19,7 @@
 
 Nighthawk is my independently developed Level 1 high-power model rocket, combining mechanical design, electronics, and software. My main technical goal is to earn my Level 1 rocketry certification, but I also want to create something I'm genuinely proud of: a rocket that's thoughtfully designed, feature-rich, and polished from the electronics to the finished appearance.
 
-I'm Landon Maynard, a high school student from Idaho who has always enjoyed building things. After designing and building a smaller custom 3D-printed rocket for a school project earlier this year, I wanted to take on something more ambitious. Nighthawk is my opportunity to explore different fields of engineering and learn through designing, programming, and building something from the ground up.
+I'm Landon Maynard, a high school student from Idaho, and I’ve always enjoyed building things. After designing and building a smaller custom 3D-printed rocket for a school project earlier this year, I wanted to take on something more ambitious. Nighthawk is my project to explore different fields of engineering and learn through designing, programming, and building something from the ground up.
 
 ## Design & Simulation
 
