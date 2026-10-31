@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# NIGHTHAWK
+# N I G H T H A W K
 
 **An Independently Designed High-Power Rocket**
 
