@@ -29,13 +29,13 @@ I've completed the initial assembly in Onshape and preliminary flight simulation
 
 
 <p align="center">
-  <img src="media/nighthawk-cad.png" alt="Nighthawk CAD" width="100%">
+  <img src="media/images/nighthawk-cad.png" alt="Nighthawk CAD" width="100%">
   <br>
   <sub><i>Nighthawk 3D assembly modeled in Onshape.</i></sub>
 </p>
 
 <p align="center">
-  <img src="media/simulation.png" alt="Nighthawk Simulation" width="100%">
+  <img src="media/images/simulation.png" alt="Nighthawk Simulation" width="100%">
   <br>
   <sub><i>Nighthawk flight simulation in OpenRocket.</i></sub>
 </p>
