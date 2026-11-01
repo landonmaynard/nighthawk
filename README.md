@@ -7,7 +7,7 @@
 
 *Mechanics · Avionics · Software*
 
-![Nighthawk Concept](images/nighthawk-banner.png)
+![Nighthawk Concept](media/images/nighthawk-banner.png)
 
 <sub>Concept visualization of Nighthawk</sub>
 
@@ -31,14 +31,14 @@ I've completed the initial assembly in Onshape and preliminary flight simulation
 <tr>
 <td width="50%" align="center">
 
-<img src="images/nighthawk-cad.png" width="100%" alt="Nighthawk CAD assembly">
+<img src="media/images/nighthawk-cad.png" width="100%" alt="Nighthawk CAD assembly">
 
 <sub>Onshape CAD assembly</sub>
 
 </td>
 <td width="50%" align="center">
 
-<img src="images/simulation.png" width="100%" alt="OpenRocket simulation">
+<img src="media/images/simulation.png" width="100%" alt="OpenRocket simulation">
 
 <sub>OpenRocket simulation</sub>
 
@@ -56,9 +56,9 @@ I wrote the packet encoding, decoding, and visualization logic myself, using exi
 
 <div align="center">
 
-[![IMU Demonstration](images/imu-demo.png)](media/imu-demo.mp4)
+[![IMU Demonstration](media/images/imu-demo.png)](media/videos/imu-demo.mp4)
 
-**[Watch the Wireless IMU Demonstration](media/imu-demo.mp4)**
+**[Watch the Wireless IMU Demonstration](media/videos/imu-demo.mp4)**
 
 <sub>Wireless IMU Telemetry — Version 2</sub>
 
@@ -87,7 +87,7 @@ One of the biggest challenges was tracking down unexpected bytes corrupting the 
 
 **Target:** Secure funding by the end of 2026, with project completion and a potential certification launch in March–April 2027, subject to development progress and launch readiness.
 
-[View the full project roadmap →](ROADMAP.md)
+[View the full project roadmap →](docs/ROADMAP.md)
 
 ## Funding & Support
 
@@ -99,7 +99,7 @@ I've completed the initial design, simulations, and electronics demonstration. F
 
 [View the detailed budget and bill of materials →](docs/BUDGET.md)
 
-For sponsorship inquiries or questions, contact me at **[YOUR PROJECT EMAIL](mailto:YOUR_EMAIL)**.
+For sponsorship inquiries or questions, contact me at **[landonmaynard13@gmail.com](mailto:landonmaynard13@gmail.com)**.
 
 ## Looking Ahead
 
