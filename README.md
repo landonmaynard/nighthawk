@@ -27,24 +27,19 @@ Nighthawk takes its name and visual inspiration from the Lockheed F-117 Nighthaw
 
 I've completed the initial assembly in Onshape and preliminary flight simulations in OpenRocket. The design is still being refined as I work through structural requirements, component placement, and the final bill of materials.
 
-<table>
-<tr>
-<td width="50%" align="center">
 
-<img src="media/images/nighthawk-cad.png" width="100%" alt="Nighthawk CAD assembly">
+<p align="center">
+  <img src="media/nighthawk-cad.png" alt="Nighthawk CAD" width="100%">
+  <br>
+  <sub><i>Nighthawk 3D assembly modeled in Onshape.</i></sub>
+</p>
 
-<sub>Onshape CAD assembly</sub>
+<p align="center">
+  <img src="media/simulation.png" alt="Nighthawk Simulation" width="100%">
+  <br>
+  <sub><i>Nighthawk flight simulation in OpenRocket.</i></sub>
+</p>
 
-</td>
-<td width="50%" align="center">
-
-<img src="media/images/simulation.png" width="100%" alt="OpenRocket simulation">
-
-<sub>OpenRocket simulation</sub>
-
-</td>
-</tr>
-</table>
 
 ## Electronics & Software
 
