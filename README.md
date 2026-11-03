@@ -65,7 +65,7 @@ https://github.com/user-attachments/assets/1c7845f0-3e1f-4eb7-aabd-1b40c6df530c
 
 One of the biggest challenges was tracking down unexpected bytes corrupting the telemetry stream. After investigating the problem, I modified the Ranger Micro firmware to prevent link-statistics data from interfering with my packets.
 
-[Read the development journal →](docs/DEVELOPMENT.md)
+[Read the development journal →](docs/JOURNAL.md)
 
 ## Progress & Roadmap
 
