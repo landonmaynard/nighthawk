@@ -46,7 +46,7 @@ My $800 funding goal provides additional flexibility for changing prices, unexpe
 
 The complete spreadsheet contains individual components, quantities, estimated prices, suppliers, and shipping costs.
 
-**[View the Nighthawk Bill of Materials](Nighthawk_BOM.xlsx)**
+**[View the Nighthawk Bill of Materials](BOM.xlsx)**
 
 The spreadsheet includes two sheets:
 
