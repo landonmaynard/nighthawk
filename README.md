@@ -51,7 +51,7 @@ I wrote the packet encoding, decoding, and visualization logic myself, using exi
 
 <div align="center">
 
-[![IMU Demo](media/images/imu-demo.png)](media/videos/imu-demo.mp4)
+[![IMU Demo](https://github.com/user-attachments/assets/1c7845f0-3e1f-4eb7-aabd-1b40c6df530c)
 
 <sub>Wireless IMU Telemetry — Version 2</sub>
 
