@@ -16,9 +16,9 @@ My goal is to have funding by **December 31, 2026**, so it will be possible to c
 | Funding Status | Amount |
 |---|---:|
 | Funding Goal | $800.00 |
-| Contributions Received | $0.00 |
-| Remaining Goal | $800.00 |
-| Progress | 0% |
+| Contributions Received | $400.00 |
+| Remaining Goal | $400.00 |
+| Progress | 50% |
 
 Both monetary donations and the value of donated materials or services count toward this goal.
 
@@ -57,19 +57,15 @@ Prices can change, and I'll keep the spreadsheet updated as the project progress
 
 ## Sponsorship & Support
 
-I'm currently looking for small grants, company sponsorships, and donated materials or services.
+I'm currently looking for small grants, company sponsorships, and donated materials or services. Any contribution would help me to continue to develop Nighthawk and see it turn into a real thing.
 
-Any contribution would help me to continue to develop Nighthawk and see it turn into a real thing.
-
-With permission, I'd like to recognize sponsors in this repository, including the main README and this budget. Also, on individual cases I can put a logo on the final rocket.
-
-Contributions of any size are greatly appreciated.
+With permission, I'd like to recognize sponsors in this repository, including the main README and this budget. Also, on individual cases I can put a logo on the final rocket. Contributions of any size are greatly appreciated.
 
 ### Sponsors
 
-*No sponsors yet.*
+Vern Knowles and Multitronix - **$400**
 
-I'll update this section as contributions come, including sponsor names when permission is given.
+I'll update this section as contributions come.
 
 ## Additional Funding
 
@@ -81,5 +77,5 @@ I'll continue to update this and the main page as changes are made, and the curr
 
 ---
 
-*Last updated: November 3 2026*
+*Last updated: November 10 2026*
 
