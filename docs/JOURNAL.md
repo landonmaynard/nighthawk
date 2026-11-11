@@ -21,4 +21,7 @@ Initially I planned to use AI to make the whole demo, and use CRSF to transmit t
 Future updates will be documented here as development continues.
 
 ### November 2026
+#### 11/10
+- Acquired the first funding (woooooooo), so now I'm gonna start getting serious about finalizing things and actually getting this ready for order. I'm checking with UROC to see if they can support a junior flier.
+
 ...
