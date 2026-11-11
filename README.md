@@ -83,7 +83,7 @@ One of the biggest challenges was tracking down unexpected bytes corrupting the 
 ## Funding & Support
 
 **Funding Remaining** : **$400**
-**Funding Received** : **400**
+**Funding Received** : **$400**
 ### Sponsors
 $400 - Thank you so much to Multitronix and Vern for the generous contribution!
 
