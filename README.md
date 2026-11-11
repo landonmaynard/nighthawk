@@ -73,7 +73,7 @@ One of the biggest challenges was tracking down unexpected bytes corrupting the 
 |---|---|
 | Initial CAD assembly | Finalize engineering constraints |
 | Preliminary OpenRocket simulations | Finalize the BOM |
-| Initial bill of materials | Secure funding and materials |
+| Initial bill of materials | Secure remaining funding and materials |
 | Wireless IMU demo V2 | Develop onboard software |
 
 **Target:** Secure funding by the end of 2026, with project completion and a potential certification launch in March–April 2027, subject to development progress and launch readiness.
@@ -82,7 +82,10 @@ One of the biggest challenges was tracking down unexpected bytes corrupting the 
 
 ## Funding & Support
 
-**Funding Goal: $800**
+**Funding Remaining** : **$400**
+**Funding Received** : **400**
+### Sponsors
+$400 - Thank you so much to Multitronix and Vern for the generous contribution!
 
 Nighthawk is an independent project that I'm responsible for funding myself. I'm currently balancing my high school classes and saving for an upcoming two-year volunteer mission, so I'm seeking grants and sponsorships to help cover the cost of materials and equipment.
 
