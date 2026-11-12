@@ -23,5 +23,7 @@ Future updates will be documented here as development continues.
 ### November 2026
 #### 11/10
 - Acquired the first funding (woooooooo), so now I'm gonna start getting serious about finalizing things and actually getting this ready for order. I'm checking with UROC to see if they can support a junior flier.
+### 11/11
+- Starting work on the comms, after some research, instead of Mavlink, im just gonna keep using raw serial to communicate, and it's a lot cooler. im looking at making it a library and not just one-time use so i can change up the packets as i go.
 
 ...
