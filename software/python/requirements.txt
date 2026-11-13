@@ -1,6 +1,0 @@
-numpy
-matplotlib
-pyserial
-scipy
-crccheck
-pyvista
