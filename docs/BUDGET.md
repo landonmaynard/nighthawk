@@ -5,8 +5,7 @@
 
 Nighthawk is an independent engineering project that I'm developing and funding myself. I've already invested my own time, money, and equipment into its design, simulations, and electronics development.
 
-As a high school student, covering the remaining costs on my own is difficult. I'm seeking support to continue the project and get real experience with mechanical design, electronics, and software.
-
+As a high school student, covering the remaining costs on my own is difficult. I'm seeking support to continue the project.
 My goal is to have funding by **December 31, 2026**, so it will be possible to complete by **Spring 2027**
 
 ## Funding Goal
