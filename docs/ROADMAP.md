@@ -87,7 +87,7 @@ flowchart TB
     classDef highlight fill:#581c87,stroke:#c084fc,color:#ffffff,stroke-width:3px
     classDef start fill:#111827,stroke:#9ca3af,color:#ffffff
 
-    class M1,M2,M3,E1,E2,F1,F2 complete
+    class M1,M2,M3,E1,E2,F1,F2,F3,F4,F5 complete
     class M4,M5,M6,M7,M8,M9 mechanical
     class E3,E4,E5,E6,E7,E8,E9,E10 electronics
     class F6,F7 funding
