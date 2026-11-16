@@ -82,18 +82,27 @@ One of the biggest challenges was tracking down unexpected bytes corrupting the 
 
 ## Funding & Support
 
-**Funding Remaining** : **$400**
-**Funding Received** : **$400**
+- **Funding Remaining** : **$0**
+- **Funding Received** : **$800!**
+
 ### Sponsors
-$400 - Thank you so much to Multitronix and Vern for the generous contribution!
 
-Nighthawk is an independent project that I'm responsible for funding myself. I'm currently balancing my high school classes and saving for an upcoming two-year volunteer mission, so I'm seeking grants and sponsorships to help cover the cost of materials and equipment.
+- **$400 - Vern Knowles and Multitronix**
+- **$250 - Dmitriy Yavid**
+- **$100 - Aaron Clarke and Embedded Systems Consulting**
+- **$50 - Robert Yarbrough**
 
-I've completed the initial design, simulations, and electronics demonstration. Funding will allow me to begin physical construction and continue developing the onboard systems.
+### Material Contributions
+
+- **Richard Grimmett** — Avionics sensors
+- **[b2 Rocketry Co.](https://b2rocketry.com)** — Recovery parachute
+
+Thank you so much to everyone supporting this project through funding, materials, and even technical advice. I never thought I would reach my funding goal, let alone as quick as I did (10 DAYS!). I'm so grateful for the opportunity your support has given me to continue building this project, and see it through all the way to launch.
+
 
 [View the detailed budget and bill of materials →](docs/BUDGET.md)
 
-For sponsorship inquiries or questions, contact me at **[landonmaynard13@gmail.com](mailto:landonmaynard13@gmail.com)**.
+For questions, contact me at **[landonmaynard13@gmail.com](mailto:landonmaynard13@gmail.com)**.
 
 ## Looking Ahead
 
