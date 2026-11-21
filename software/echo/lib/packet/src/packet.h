@@ -34,14 +34,14 @@ private:
     };
 
     TimestampBytes convertTimestamp(uint32_t timestamp);
-    GyroBytes convertGyro(uint16_t xData, uint16_t yData, uint16_t zData);
+    GyroBytes convertGyro(int16_t xData, int16_t yData, int16_t zData);
 
     uint8_t calculateCRC(uint8_t data[usefulPacketLength]);
 
 public:
     GyroPacket();
     ~GyroPacket();
-    void update(uint32_t timestamp, uint16_t xData, uint16_t yData, uint16_t zData);
+    void update(uint32_t timestamp, int16_t xData, int16_t yData, int16_t zData);
     uint8_t getLength();
     const uint8_t* getData() const;
     bool isDue(uint32_t timestamp);

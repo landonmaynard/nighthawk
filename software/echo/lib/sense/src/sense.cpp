@@ -9,7 +9,7 @@ bool IMU::initialize(uint8_t address){
         delay(1);
     }
     IMU::config();
-
+    return true;
 }
 
 void IMU::config(){

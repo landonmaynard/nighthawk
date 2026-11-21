@@ -9,7 +9,7 @@ GyroPacket::~GyroPacket(){
 
 }
 
-void GyroPacket::update(uint32_t timestamp, uint16_t xData, uint16_t yData, uint16_t zData){
+void GyroPacket::update(uint32_t timestamp, int16_t xData, int16_t yData, int16_t zData){
     data[0] = startByte1;
     data[1] = startByte2;
     data[2] = id;
@@ -38,7 +38,7 @@ GyroPacket::TimestampBytes GyroPacket::convertTimestamp(uint32_t timestamp){
     return result;
 }
 
-GyroPacket::GyroBytes GyroPacket::convertGyro(uint16_t xData, uint16_t yData, uint16_t zData){
+GyroPacket::GyroBytes GyroPacket::convertGyro(int16_t xData, int16_t yData, int16_t zData){
     GyroBytes result;
     result.x1 = xData >> 8;
     result.x2 = xData & 0xFF;

@@ -1,8 +1,8 @@
 import serial
-byte = 0
+
 class Link:
-    def initialize():
-        ser = serial.Serial("/dev/ttyUSB0", 19200)
-    def read():
-        byte = ser.read(1)
-        print(byte)
+    def __init__(self):
+        pass
+
+    def initialize(port, baudrate):
+        self.ser = serial.Serial(port, baudrate, timeout=1)
