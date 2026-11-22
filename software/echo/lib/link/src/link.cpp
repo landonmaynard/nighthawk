@@ -1,22 +1,10 @@
 #include "link.h"
 
-void Link::initialize(){
-    Serial1.begin(19200);
+void Link::initialize(uint32_t baud){
+    Serial1.begin(baud);
+    Wire.begin();
 }
 
-void Link::update(){
-    packet += 1;
-    if(packet >= 6){
-        packet = 1;
-    }
-}
-
-bool Link::send(){
-    if(millis() - lastPacketTime >= 1000/packetHZ){
-        Serial1.write(packet);
-        lastPacketTime = millis();
-        return true;
-    }else{
-        return false;
-    }
+void Link::send(const uint8_t* data, uint8_t packetLength){
+    Serial1.write(data, packetLength);
 }

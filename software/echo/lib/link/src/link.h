@@ -1,14 +1,14 @@
 #pragma once
+#include <stdint.h>
 #include <Arduino.h>
+#include <Wire.h>
 
 class Link
 {
+
 private:
-    uint8_t packet = 1;
-    const uint8_t packetHZ = 100;
-    uint32_t lastPacketTime = millis();
+
 public:
-    void initialize();
-    void update();
-    bool send();
+    void initialize(uint32_t baud);
+    void send(const uint8_t* data, uint8_t packetLength);
 };
