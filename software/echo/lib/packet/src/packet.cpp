@@ -1,12 +1,26 @@
 #include "packet.h"
 #include <CRC.h>
 
-GyroPacket::GyroPacket(){
-
+void HeartbeatPacket::update(){
+    data[0] = startByte1;
+    data[1] = startByte2;
+    data[2] = id;
 }
 
-GyroPacket::~GyroPacket(){
+const uint8_t* HeartbeatPacket::getData() const {
+    return data;
+}
 
+uint8_t HeartbeatPacket::getLength(){
+    return packetLength;
+}
+
+bool HeartbeatPacket::isDue(uint32_t timestamp){
+    if(timestamp - lastTransmission >= (1000000UL/packetHZ)){
+        lastTransmission = timestamp;
+        return true;
+    }
+    return false;
 }
 
 void GyroPacket::update(uint32_t timestamp, int16_t xData, int16_t yData, int16_t zData){

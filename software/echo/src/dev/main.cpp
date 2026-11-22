@@ -3,6 +3,7 @@
 #include <sense.h>
 
 Link link;
+HeartbeatPacket heartbeatPacket;
 GyroPacket gyroPacket;
 IMU imu;
 
@@ -15,6 +16,10 @@ void setup(){
 
 void loop(){
     imu.read();
+    if(heartbeatPacket.isDue(micros())){
+        heartbeatPacket.update();
+        link.send(heartbeatPacket.getData(), heartbeatPacket.getLength());
+    }
     if(gyroPacket.isDue(imu.imuData.timestamp)){
         imu.convert();
         gyroPacket.update(imu.imuData.timestamp, imu.imuData.gx, imu.imuData.gy, imu.imuData.gz);

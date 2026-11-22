@@ -3,6 +3,23 @@
 #include "globals.h"
 #include <Arduino.h>
 
+class HeartbeatPacket
+{
+private:
+static constexpr uint8_t packetLength = 3;
+const uint8_t id = 0x00;
+const uint8_t packetHZ = 1;
+uint8_t packetCount = 0;
+uint8_t data[packetLength];
+uint32_t lastTransmission = micros();
+
+public:
+    void update();
+    uint8_t getLength();
+    const uint8_t* getData() const;
+    bool isDue(uint32_t timestamp);
+};
+
 class GyroPacket
 {
 private:
@@ -10,8 +27,8 @@ private:
     static constexpr uint8_t packetLength = 15;
     static constexpr uint8_t usefulPacketLength = (packetLength-3);
 
-    const uint8_t id = 0x00;
-    const uint8_t packetHZ = 60;
+    const uint8_t id = 0x01;
+    const uint8_t packetHZ = 10;
     uint8_t packetCount = 0;
     uint8_t data[packetLength]; //fill in how many
 
@@ -39,8 +56,6 @@ private:
     uint8_t calculateCRC(uint8_t data[usefulPacketLength]);
 
 public:
-    GyroPacket();
-    ~GyroPacket();
     void update(uint32_t timestamp, int16_t xData, int16_t yData, int16_t zData);
     uint8_t getLength();
     const uint8_t* getData() const;
